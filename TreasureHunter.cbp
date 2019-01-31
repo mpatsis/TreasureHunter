@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TreasureHunter" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TreasureHunter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TreasureHunter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="/home/mpatsis/src/TreasureHunter/" />
+			<Add directory="/home/mpatsis/src/TreasureHunter/src" />
+			<Add directory="/home/mpatsis/src/TreasureHunter/include" />
+		</Compiler>
+		<Unit filename="include/AddOn.h" />
+		<Unit filename="include/BMPLoader.h" />
+		<Unit filename="include/Balloon.h" />
+		<Unit filename="include/CannonBall.h" />
+		<Unit filename="include/FirePart.h" />
+		<Unit filename="include/Globe.h" />
+		<Unit filename="include/Graphics.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/OBJLoader.h" />
+		<Unit filename="include/PTypes.h" />
+		<Unit filename="include/Rock.h" />
+		<Unit filename="include/SVector.h" />
+		<Unit filename="include/Scene.h" />
+		<Unit filename="include/SceneNode.h" />
+		<Unit filename="include/Skeleton.h" />
+		<Unit filename="include/Sound.h" />
+		<Unit filename="include/StdAfx.h" />
+		<Unit filename="include/Text.h" />
+		<Unit filename="include/Treasure.h" />
+		<Unit filename="include/tinyxml/tinystr.h" />
+		<Unit filename="include/tinyxml/tinyxml.h" />
+		<Unit filename="src/AddOn.cpp" />
+		<Unit filename="src/BMPLoader.cpp" />
+		<Unit filename="src/Balloon.cpp" />
+		<Unit filename="src/CannonBall.cpp" />
+		<Unit filename="src/Globe.cpp" />
+		<Unit filename="src/Graphics.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/OBJLoader.cpp" />
+		<Unit filename="src/Rock.cpp" />
+		<Unit filename="src/Scene.cpp" />
+		<Unit filename="src/SceneNode.cpp" />
+		<Unit filename="src/Skeleton.cpp" />
+		<Unit filename="src/Text.cpp" />
+		<Unit filename="src/Thread.cpp" />
+		<Unit filename="src/Treasure.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/tinyxml/tinystr.cpp" />
+		<Unit filename="src/tinyxml/tinyxml.cpp" />
+		<Unit filename="src/tinyxml/tinyxmlerror.cpp" />
+		<Unit filename="src/tinyxml/tinyxmlparser.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

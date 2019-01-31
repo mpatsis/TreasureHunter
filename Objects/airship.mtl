@@ -1,0 +1,90 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.9.1158
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _2___Default
+Ka 0 0 0
+Kd 1 0.9373 0.8275
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _1___Default
+Ka 0 0 0
+Kd 0.2314 0.2314 0.2314
+Ks 0.666 0.666 0.666
+illum 2
+Ns 17
+
+newmtl _3___Default
+Ka 0 0 0
+Kd 0.9843 0.9333 0.7804
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _9___Default
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _5___Default
+Ka 0 0 0
+Kd 1 0.8902 0.7843
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _4___Default
+Ka 0 0 0
+Kd 1 0.5882 0.851
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _6___Default
+Ka 0 0 0
+Kd 0.2863 0.1922 0.1176
+Ks 0.099 0.099 0.099
+illum 2
+Ns 10
+
+newmtl _1___Default0
+Ka 0 0 0
+Kd 0.098 0.098 0.098
+Ks 0.162 0.162 0.162
+illum 2
+Ns 10
+
+newmtl _2___Default0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.63 0.63 0.63
+illum 2
+Ns 10
+
+newmtl _4___Default0
+Ka 0 0 0
+Kd 0.2039 0.9765 0.2588
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _0___Default
+Ka 0 0 0
+Kd 1 0 0
+Ks 0 0 0
+illum 2
+Ns 10
+
+newmtl _5___Default0
+Ka 0 0 0
+Kd 0 0.5882 1
+Ks 0 0 0
+illum 2
+Ns 10

@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1331574025 source:/home/mpatsis/src/TreasureHunter/src/AddOn.cpp
+	"AddOn.h"
+
+1331414911 /home/mpatsis/src/TreasureHunter/include/AddOn.h
+	"SceneNode.h"
+
+1331402071 /home/mpatsis/src/TreasureHunter/include/SceneNode.h
+	<string.h>
+	"OBJLoader.h"
+
+1327196425 /home/mpatsis/src/TreasureHunter/include/OBJLoader.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<windows.h>
+	<iostream>
+	<GL/glu.h>
+	"BMPLoader.h"
+
+1327196425 /home/mpatsis/src/TreasureHunter/include/BMPLoader.h
+	<string>
+
+1546726100 source:/home/mpatsis/src/TreasureHunter/src/Balloon.cpp
+	"Balloon.h"
+	<math.h>
+	"Graphics.h"
+
+1331574483 /home/mpatsis/src/TreasureHunter/include/Balloon.h
+	"SceneNode.h"
+	<math.h>
+
+1331564942 /home/mpatsis/src/TreasureHunter/include/Graphics.h
+
+1327196397 source:/home/mpatsis/src/TreasureHunter/src/BMPLoader.cpp
+	<stdio.h>
+	"BMPLoader.h"
+
+1331573616 source:/home/mpatsis/src/TreasureHunter/src/CannonBall.cpp
+	"CannonBall.h"
+
+1331159394 /home/mpatsis/src/TreasureHunter/include/CannonBall.h
+	"SceneNode.h"
+
+1327253617 source:/home/mpatsis/src/TreasureHunter/src/Globe.cpp
+	"Globe.h"
+
+1327236547 /home/mpatsis/src/TreasureHunter/include/Globe.h
+	"OBJLoader.h"
+
+1546736695 source:/home/mpatsis/src/TreasureHunter/src/Graphics.cpp
+	<string.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<math.h>
+	"OBJLoader.h"
+	"Graphics.h"
+	"Globe.h"
+	"Balloon.h"
+	"Treasure.h"
+	"Rock.h"
+	"Skeleton.h"
+	"CannonBall.h"
+	"AddOn.h"
+	<SDL/SDL.h>
+	"Scene.h"
+
+1327196425 /home/mpatsis/src/TreasureHunter/include/Treasure.h
+	"SceneNode.h"
+
+1331571525 /home/mpatsis/src/TreasureHunter/include/Rock.h
+	"SceneNode.h"
+
+1331501862 /home/mpatsis/src/TreasureHunter/include/Skeleton.h
+	"SceneNode.h"
+
+1331567530 /home/mpatsis/src/TreasureHunter/include/Scene.h
+	"Graphics.h"
+	"Globe.h"
+	"Balloon.h"
+	"CannonBall.h"
+	"Treasure.h"
+	"Rock.h"
+	"Skeleton.h"
+	"AddOn.h"
+	<tinystr.h>
+	<tinyxml.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+982017038 source:/home/mpatsis/src/TreasureHunter/src/lesson19.cc
+	<stdlib.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"SDL.h"
+
+1331576488 source:/home/mpatsis/src/TreasureHunter/src/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"OBJLoader.h"
+	"Graphics.h"
+	"Menu.h"
+	"Scene.h"
+	"Globe.h"
+	"Balloon.h"
+	"Treasure.h"
+	"Rock.h"
+	"Skeleton.h"
+	"AddOn.h"
+	<tinystr.h>
+	<tinyxml.h>
+	<SDL/SDL.h>
+	<iostream>
+	<time.h>
+
+1330571169 /home/mpatsis/src/TreasureHunter/include/Menu.h
+
+1330570015 source:/home/mpatsis/src/TreasureHunter/src/main2.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"OBJLoader.h"
+	"Menu.h"
+	"Balloon.h"
+	<iostream>
+
+1331587229 source:/home/mpatsis/src/TreasureHunter/src/Menu.cpp
+	"Menu.h"
+	<iostream>
+	<string.h>
+	<GL/glut.h>
+	<math.h>
+	"BMPLoader.h"
+	"Balloon.h"
+	"Treasure.h"
+	"Rock.h"
+	"Skeleton.h"
+
+1327196397 source:/home/mpatsis/src/TreasureHunter/src/OBJLoader.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/gl.h>
+	"OBJLoader.h"
+
+1546771596 source:/home/mpatsis/src/TreasureHunter/src/Rock.cpp
+	"Rock.h"
+
+1331573948 source:/home/mpatsis/src/TreasureHunter/src/Scene.cpp
+	"Scene.h"
+	"AddOn.h"
+
+1330907391 source:/home/mpatsis/src/TreasureHunter/src/SceneNode.cpp
+	"SceneNode.h"
+
+1546732377 source:/home/mpatsis/src/TreasureHunter/src/Skeleton.cpp
+	"Skeleton.h"
+
+1330910178 source:/home/mpatsis/src/TreasureHunter/src/Sound.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1331404692 source:/home/mpatsis/src/TreasureHunter/src/Text.cpp
+	"Text.h"
+
+1331403042 /home/mpatsis/src/TreasureHunter/include/Text.h
+
+1331575233 source:/home/mpatsis/src/TreasureHunter/src/Thread.cpp
+	<SDL/SDL_thread.h>
+	<SDL/SDL.h>
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	"SDL/SDL_audio.h"
+	<GL/glut.h>
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinystr.cpp
+	"tinystr.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxml/tinystr.cpp
+	"tinystr.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxml/tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxml/tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxml/tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305401098 source:/home/mpatsis/src/TreasureHunter/src/tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1330911172 source:/home/mpatsis/src/TreasureHunter/src/Treasure.cpp
+	"Treasure.h"
+

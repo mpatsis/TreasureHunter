@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SceneNodes>
+
+<Player>
+<Airship x="0" y="-700" z="1000" > </Airship>
+</Player>
+
+<Treasures>
+<Treasure x="0" y="-700" z="-200" > </Treasure>
+</Treasures>
+
+<AddOns>
+<AddOn x="-200" y="-700"  z="500"> </AddOn>
+<AddOn x="300" y="-700"  z="500"> </AddOn>
+<AddOn x="0" y="-700"  z="0"> </AddOn>
+<AddOn x="-200" y="-800"  z="-250"> </AddOn>
+<AddOn x="350" y="-700"  z="250"> </AddOn>
+</AddOns>
+
+
+<Enemies>
+
+<Rocks>
+<Rock x="0" y="0"  z="600"> </Rock>
+<Rock x="-90" y="-700"  z="0">    </Rock>
+<Rock x="90" y="-600" z="-500">  </Rock>
+<Rock x="-70" y="-800" z="-250">  </Rock>
+<Rock x="70" y="-600" z="-800">  </Rock>
+<Rock x="200" y="-800" z="-220">  </Rock>
+<Rock x="-150" y="-700"  z="500">  </Rock>
+<Rock x="50" y="0"  z="600"> </Rock>
+<Rock x="350" y="-700"  z="400"> </Rock>
+<Rock x="1000" y="-500" z="800">  </Rock>
+<Rock x="1000" y="-200" z="420">  </Rock>
+<Rock x="500" y="-600" z="-800">  </Rock>
+<Rock x="900" y="-800" z="-520">  </Rock>
+</Rocks>
+
+<Skeletons>
+<Skeleton x="-250" y="-700"  z="500">  </Skeleton>
+<Skeleton x="0" y="0"  z="550">  </Skeleton>
+<Skeleton x="350" y="-700"  z="500">  </Skeleton>
+<Skeleton x="-50" y="-700"  z="0">  </Skeleton>
+<Skeleton x="50" y="-700"  z="-200">  </Skeleton>
+<Skeleton x="-250" y="-800"  z="-250">  </Skeleton>
+<Skeleton x="-50" y="-700"  z="-300">  </Skeleton>
+<Skeleton x="250" y="-800"  z="-300">  </Skeleton>
+<Skeleton x="60" y="0"  z="550">  </Skeleton>
+<Skeleton x="60" y="0"  z="-100">  </Skeleton>
+<Skeleton x="-70" y="-700" z="-200" >  </Skeleton>
+<Skeleton x="30" y="-700" z="200" >  </Skeleton>
+<Skeleton x="100" y="-700" z="400" >  </Skeleton>
+</Skeletons>
+
+</Enemies>
+
+</SceneNodes>
+
